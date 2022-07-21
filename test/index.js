@@ -5,7 +5,6 @@
 process.env.NODE_ENV = 'testing';
 
 // Dependencies
-const { processCheckOutcome } = require('../lib/workers');
 const codes = require('./../lib/consoleCodes');
 
 
